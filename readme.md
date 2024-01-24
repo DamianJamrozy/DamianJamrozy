@@ -124,7 +124,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 <br/>
 
-## Top Github Repo -
+## Some of my Github Repo 
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=DamianJamrozy&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DamianJamrozy/DamianJamrozy.github.io)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=DamianJamrozy&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DamianJamrozy/ALIPS)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=DamianJamrozy&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DamianJamrozy/Reference)
