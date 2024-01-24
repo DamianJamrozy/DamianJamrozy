@@ -39,7 +39,8 @@
 
 <p align="center">
  <a href="https://damianjamrozy.github.io" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="DamianJamrozy" />
+   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  alt="DamianJamrozy"/>
+  <!--<img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="DamianJamrozy" /> -->
  </a>
  <a href="https://linkedin.com/in/djamrozy/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="DamianJamrozy"/>
