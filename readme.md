@@ -140,13 +140,13 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 <p align="center">
   <a href="https://github.com/DamianJamrozy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DamianJamrozy&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DamianJamrozy&theme=radical&border=7F3FBF&background=0D1117" alt="Damian Jamroży GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DamianJamrozy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DamianJamrozy&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DamianJamrozy&theme=radical" alt="Damian Jamroży GitHub Contribution"/>
   </a>
 </p>
 
