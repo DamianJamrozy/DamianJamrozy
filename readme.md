@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Damian+Jamroży">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Rzeszów - Poland</b> 」
+    「 I am a database administrator from <b>Rzeszów - Poland</b> 」
     <br>
     <br>
   </samp>
