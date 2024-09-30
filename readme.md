@@ -128,6 +128,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=DamianJamrozy&repo=DamianJamrozy.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DamianJamrozy/DamianJamrozy.github.io/)
 [![ALIPS](https://github-readme-stats.vercel.app/api/pin/?username=DamianJamrozy&repo=ALIPS&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DamianJamrozy/ALIPS/)
 [![Reference](https://github-readme-stats.vercel.app/api/pin/?username=DamianJamrozy&repo=Reference&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DamianJamrozy/Reference/)
+[![SpeakingGesture](https://github-readme-stats.vercel.app/api/pin/?username=DamianJamrozy&repo=SpeakingGesture&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DamianJamrozy/SpeakingGesture)
 <!--[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=DamianJamrozy&repo=DamianJamrozy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DamianJamrozy/DamianJamrozy) -->
 
 <p align="left">
