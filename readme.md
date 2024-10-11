@@ -101,6 +101,8 @@
 
 ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Static Badge](https://img.shields.io/badge/OTOBO-newOTRS-blue)
+
 
 
 <!--
