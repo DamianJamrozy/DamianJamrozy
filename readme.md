@@ -29,7 +29,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Damian+Jamroży">「 Google Me 」</a>
     <br>
-    「 I am a database administrator, web designer/developer and academic teacher from <b>Rzeszów - Poland</b> 」
+    「 I am a database administrator, web designer, app developer and academic teacher from <b>Rzeszów - Poland</b> 」
     <br>
     <br>
   </samp>
